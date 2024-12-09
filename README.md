@@ -26,7 +26,8 @@ Curious? [See the full project here](https://github.com/ChinmayiRanade/Cornell-M
 
 🚀 **Projects:**  
 Here are a few other exciting projects I’ve worked on:  
-AI Studio: Project by UNICC (partner with the UN). Developing an Open AI-enabled BOT platform powered by LLMs
+AI Studio: Project by UNICC (partner with the UN). Developing an Open AI-enabled BOT platform powered by LLMs. Check out my team's project repository for the real-world ML project we worked on for UNICC for over 3 months, as part of the Break Through Tech AI Program's Fall 2024 AI Studio!
+[Open AI-enabled BOT platform](https://github.com/lucyking140/ai-studio-unicc)
 
 
 ---

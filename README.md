@@ -1,7 +1,7 @@
 ## Hi there 👋  
 👋 Hi, I'm Chinmayi!  
 
-🎓 **Sophomore at George Mason University**, studying Computer Science  
+🎓 **Junior at George Mason University**, studying Computer Science  
 🔭 Aspiring Data Scientist and Machine Learning Enthusiast, passionate about Sustainability  
 
 I enjoy solving real-world problems through data analysis and predictive modeling. I’m committed to continuous learning and personal growth, and I believe in taking initiative to make a difference. I’ve honed my technical and leadership skills as a **Break Through Tech Fellow** and am currently focusing on machine learning projects and deepening my understanding of data science. I’m looking for internship opportunities where I can contribute to impactful projects and learn from industry experts.
